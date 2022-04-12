@@ -4,7 +4,7 @@ sr.reveal('.titlle', { rotate: { x: 10, y: 0, z: 0 }, duration: 3000 })
 sr.reveal('.efeito-p', { rotate: { x: 10, y: 0, z: 0 }, duration: 4000 })
 sr.reveal('.card', { rotate: { x: 0, y: 100, z: 0 }, duration: 2000 })
 sr.reveal('.img-foguete', { rotate: { x: 0, y: 0, z: 15 }, duration: 2500 })
-sr.reveal('.img-projeto', { rotate: { x: 0, y: 10, z: 0 }, duration: 2500 })
+sr.reveal('.img-projeto', { rotate: { x: 0, y: 5, z: 0 }, duration: 3500 })
 
 window.onscroll = function () {
   scrollFunction()
